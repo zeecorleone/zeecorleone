@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hi, My name is Zeeshan! 👋
+[![](https://img.shields.io/badge/-@zeecorleone-%23181717?style=flat-square&logo=github)](https://github.com/zeecorleone)
+[![](https://img.shields.io/badge/-Zeeshan%20Mustafa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeeshan-mustafa-07096050/)](https://www.linkedin.com/in/zeeshan-mustafa-07096050/)
 
 <!--
 **zeecorleone/zeecorleone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
